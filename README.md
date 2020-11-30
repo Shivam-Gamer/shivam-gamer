@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam pal</h1>
 <h3 align="center">A passionate about software engineer from India</h3>
+<p align="center"><img src="https://drive.google.com/file/d/1SLD6LYuKMlrf4En0sRe46fDAmBxDvn5Y/view?usp=drivesdk" alt="Bt">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-gamer&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-gamer" /> </p>
 
