@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/shivampal_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shivampal_123" height="30" width="40" /></a>
+<a href="https://instagram.com/__shivam__pal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shivampal_123" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCi_QbGWe6b9lOZCb2sOCGUQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="boss of gaming" height="30" width="40" /></a>
 </p>
 
